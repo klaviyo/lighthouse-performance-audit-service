@@ -60,10 +60,10 @@ typings/
 # next.js build output
 .next
 
-# web-scripts paths
-types
-esm
-cjs
+## web-scripts paths
+# types
+# esm
+# cjs
 
 # typescript incremental compilation cache
 tsconfig.tsbuildinfo
