@@ -24,8 +24,7 @@
     "build": "web-scripts build && copyfiles --up 1 src/**/*.sql cjs && copyfiles --up 1 src/**/*.sql esm",
     "format": "web-scripts format",
     "commit": "web-scripts commit",
-    "release": "web-scripts release",
-    "prepare": "husky install"
+    "release": "web-scripts release"
   },
   "devDependencies": {
     "@spotify/eslint-config-oss": "^1.0.2",
